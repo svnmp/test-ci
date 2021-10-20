@@ -1,2 +1,2 @@
 # test-ci
-This is testing of CI
+This is testing of CI with Jenkins
